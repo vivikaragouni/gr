@@ -66,7 +66,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://vivikaragouni.github.io/gr"
+  home             : "https://vivikaragouni.github.io/gr"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -290,4 +290,4 @@ defaults:
     values:
       layout: single
       header: no
-      show_meta: false
+show_meta: false
